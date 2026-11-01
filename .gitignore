@@ -1,0 +1,18 @@
+# Power BI files — keep the original dashboard private
+*.pbix
+*.pbit
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Raw or exported datasets
+*.csv
+*.xlsx
+*.xls
+*.jsonl
+
+# System files
+.DS_Store
+Thumbs.db
