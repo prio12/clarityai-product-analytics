@@ -104,9 +104,13 @@ clarityai-product-analytics/
 │
 ├── README.md
 ├── sql/
+│   └── clarityai_product_analytics_baseline.sql
 ├── data/
-├── screenshots/
-└── dashboard/
+│   └── baseline_results.md
+└── screenshots/
+    ├── dashboard-overview.png
+    ├── user-acquisition.png
+    └── engagement-analysis.png
 ```
 
 ## Project Status
@@ -115,6 +119,5 @@ Dashboard development and initial product analysis completed.
 
 Future improvements:
 
-- Add dashboard screenshots.
 - Publish a project walkthrough video.
 - Explore cohort-based retention and deeper engagement analysis.
